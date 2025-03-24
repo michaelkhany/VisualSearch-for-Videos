@@ -1,1 +1,1 @@
-pip install opencv-python ultralytics requests
+opencv-python ultralytics requests
